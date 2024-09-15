@@ -1,4 +1,4 @@
-Repo: data-depot-04
+Repo: ansible-webmin
 
 # Webmin
 Ansible playbook installs Webmin on Redhat, Rocky9 and Ubuntu and configures Webmin to listen on port 59153, port number can be changed to any other port requirements in the playbook setup-webmin.yml.

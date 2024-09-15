@@ -31,7 +31,7 @@ ansible-galaxy collection install community.general
 The easiest way to install Webmin is to clone the repo and run the playbook:
 
 ```
-git clone https://github.com/allen-joey/data-depot-04.git
+git clone https://github.com/allen-joey/ansible-webmin.git
 ansible '*' -m ping (Pint Test)
 ansible-playbook setup-webmin.yml -v
 
